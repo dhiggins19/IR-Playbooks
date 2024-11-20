@@ -71,7 +71,7 @@ The initial detection will most often come from one of the following:
 
 ### Decision to Stand Up Cyber Incident Response Team (CSIRT)
 
-In the event that the Corporate Security Team (CST) is made aware of a third-party compromise; the severity should be determined following the criteria specified in the [Incident Response Playbook](https://github.com/dhiggins19/IR-Playbooks/tree/main/IncidentResponseOverview). Regardless of the level of the severity, if the incident is confirmed to be spreading to our environment, the CSIRT must be activated as quickly as possible. That process is detailed in the [Incident Response Playbook](https://github.com/dhiggins19/IR-Playbooks/tree/main/IncidentResponseOverview).
+In the event that the Corporate Security Team (CST) is made aware of a third-party compromise; the severity should be determined following the criteria specified in the [Incident Response Playbook](https://github.com/dhiggins19/IR-Playbooks/tree/main/Incident-Response-Overview). Regardless of the level of the severity, if the incident is confirmed to be spreading to our environment, the CSIRT must be activated as quickly as possible. That process is detailed in the [Incident Response Playbook](https://github.com/dhiggins19/IR-Playbooks/tree/main/Incident-Response-Overview).
 
 ## 2.2 Initial Analysis and Containment {#2.2-initial-analysis-and-containment}
 

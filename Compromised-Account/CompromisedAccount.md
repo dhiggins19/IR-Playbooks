@@ -70,11 +70,11 @@ The initial detection will most often come from one of the following:
 
 ### Decision to Stand Up Cyber Incident Response Team (CSIRT)
 
-Following the initial detection and confirmation of an account compromise. The severity should be determined following the criteria specified in the [Incident Response Playbook](https://github.com/dhiggins19/IR-Playbooks/tree/main/IncidentResponseOverview). 
+Following the initial detection and confirmation of an account compromise. The severity should be determined following the criteria specified in the [Incident Response Playbook](https://github.com/dhiggins19/IR-Playbooks/tree/main/Incident-Response-Overview). 
 
 If the determination is made that the incident has a “Low” or “Medium” level of severity, then the internal Standard Operating Procedures can be followed to remediate the incident without activation of the Incident Response team.
 
-If the severity has been determined to be “High” or “Critical” the incident response team must be activated as quickly as possible. That process is detailed in the [Incident Response Playbook](https://github.com/dhiggins19/IR-Playbooks/tree/main/IncidentResponseOverview).
+If the severity has been determined to be “High” or “Critical” the incident response team must be activated as quickly as possible. That process is detailed in the [Incident Response Playbook](https://github.com/dhiggins19/IR-Playbooks/tree/main/Incident-Response-Overview).
 
 ## 2.2 Initial Analysis and Containment {#2.2-initial-analysis-and-containment}
 
